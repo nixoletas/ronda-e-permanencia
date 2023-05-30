@@ -7,3 +7,8 @@ to make the app very quick and private it only uses LocalStorage for data persis
 
 https://ronda-e-permanencia.netlify.app
 ![ronda-e-permanencia-gif](https://github.com/nixoletas/ronda-e-permanencia/assets/66659340/a016a4e8-a3c0-4d96-8be0-9e04fe85ed3b)
+
+1. git clone
+2. npm i
+3. npm run dev
+4. access "localhost:5173"
