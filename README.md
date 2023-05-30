@@ -6,6 +6,7 @@ so i was doing a vigilant round at my job but the screen was too bright with Goo
 to make the app very quick and private it only uses LocalStorage for data persistance. Check out the demo:
 
 https://ronda-e-permanencia.netlify.app
+
 ![ronda-e-permanencia-gif (1)](https://github.com/nixoletas/ronda-e-permanencia/assets/66659340/a7f47e7e-4c5d-494c-992f-853a8cc0d124)
 
 ### Quick Steps
