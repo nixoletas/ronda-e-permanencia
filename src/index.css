@@ -1,15 +1,9 @@
 :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
-  line-height: 1;
-  font-weight: 400;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
+  background-color: #000000;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -28,7 +22,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: black;
-  overflow: none;
+  overflow: hidden;
 }
 
 button {
@@ -57,6 +51,7 @@ button:focus-visible {
   :root {
     color: #213547;
     background-color: #ffffff;
+    overflow: hidden;
   }
 
 }
