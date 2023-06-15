@@ -28,7 +28,7 @@ body {
   justify-content: center;
   align-items: center;
   background-color: black;
-  overflow: hidden;
+  overflow: none;
 }
 
 button {
